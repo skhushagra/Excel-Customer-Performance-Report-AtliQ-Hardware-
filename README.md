@@ -1,63 +1,68 @@
-# Excel-Customer-Performance-Report-AtliQ-Hardware-
 # Sales - Customer Performance Report Overview
 
-This project is an in-depth analysis of data for **AtliQ Hardware**, a manufacturing company that produces electronic products. Utilizing **Microsoft Excel**, the analysis processed a dataset containing over 1 million data points. The primary objective was to extract valuable insights and create reports on **profit and loss by fiscal year and month**, enabling AtliQ Hardware to better understand their financial performance.
+This project was an in-depth analysis of data for **AtliQ Hardware**, a manufacturing company that produces electronic products. The project utilized **Microsoft Excel** to analyze the AtliQ dataset, which contains over 1 million data points. The goal of the project was to extract valuable insights and create reports on **profit and loss by fiscal year and by month**, providing AtliQ Hardware with a better understanding of their financial performance.
 
 ---
 
 ## Key Learnings and Applied Concepts
 
-### Tools and Techniques
-- **Pivot Tables**
-- **Power Query**
-- **DAX (Basic Concepts)**
-- **Conditional Formatting**
-- **Report Beautification**
+During the project, several concepts were learned and applied, including:
+- **Pivot Tables**, **Power Query**, and **DAX (basics)** for data analysis.
+- **Conditional Formatting** and **Report Beautification** to enhance data presentation.
+- **Sales Domain Metrics** and **Finance Domain Metrics** to gain deeper insights into the company's financial performance.
 
-### Metrics and Domains
-- **Sales Domain Metrics**: Net Sales, Cost of Goods Sold (COGS), Gross Margin, and Gross Margin %.
-- **Finance Domain Metrics**: Manufacturing Costs, Freight Costs, and other key financial indicators.
 
-### Gained Knowledge
-1. **Business Domain**: Understanding financial performance metrics like net sales, gross margin %, and manufacturing costs.
+
+---
+
+## Tech Stacks
+
+- **Excel**
+- **PowerPoint**
+- **Languages**: M language, DAX language
+
+---
+
+## Gained Knowledge
+
+1. **Business Domain**:
+   - Net Sales, Cost of Goods Sold (COGS), Gross Margin, Gross Margin %, Manufacturing Costs, Freight Costs, etc.
 2. **Excel Basics**:
-   - Formulas
-   - Tables and Charts
-   - Cell and Conditional Formatting
-   - Security Features
+   - Formulas, Tables, Charts, Cell Formatting, Conditional Formatting, Security, etc.
 3. **Data Cleaning**:
-   - Removing duplicates
-   - Using “Text to Columns”, `TRIM()`, `REPLACE()` functions
+   - Removing duplicates, using **Text to Columns**, `TRIM()`, and `REPLACE()` functions.
 4. **Data Transformation**:
-   - Combining data from tables using `VLOOKUP`, `INDEXMATCH`, and `XLOOKUP`.
-5. **Applying Business Math & Statistics**:
-   - Working with business logic, KPIs, and statistical measures (`SUM`, `SUMIF`, `COUNT`, `COUNTIF`, `AVERAGE`).
+   - Combining data from tables using functions like `VLOOKUP`, `INDEXMATCH`, and `XLOOKUP`.
+5. **Business Math & Statistics**:
+   - Business logic, Key Performance Indicators, `SUM`, `SUMIF`, `COUNT`, `COUNTIF`, `AVERAGE`.
 6. **Power Query**:
-   - Cleaning and merging data
-   - Adding new columns and loading the transformed data into Excel
+   - Cleaning data, merging data, adding new columns, and loading data into Excel.
 7. **Business Reports**:
    - Creating reports using **Pivot Tables** and **Power Pivot**.
 8. **VBA Basics**:
-   - Using Macros for automation.
+   - Using Macros.
 
 ---
 
 ## Workflow Steps
 
-1. **ETL Process**: Extract, Transform, Load in Excel.
-2. **Solution Design**: Developing a structured approach to data analysis.
+1. **ETL (Extract, Transform, Load)** in Excel.
+2. **Solution Design Thought Process**.
 3. **Data Modeling**:
-   - Creating connections among tables
-   - Adding a date table using Power Query (M language)
-4. **Functional Knowledge**: Understanding Sales, Finance, and Profit & Loss metrics.
+   - Creating connections among tables.
+   - Adding a Date table using Power Query (M language).
+4. **Functional Knowledge**:
+   - Sales, Finance, and Profit & Loss metrics.
 5. **Report Creation**:
-   - Customer performance reports
-   - Market performance vs. target reports
-   - Profit & Loss (P&L) reports by year, quarter, and month.
+   - Customer performance report.
+   - Market performance vs Target report.
+   - P&L reports by year, quarters, and months.
+6. **Data Modeling**:
+   - Diagram View.
 
 ---
 
-## Insights and Results
+## Insights
 
 1. **Revenue Growth**:
    - **2019**: Revenue of **87.5 million**.
@@ -65,31 +70,24 @@ This project is an in-depth analysis of data for **AtliQ Hardware**, a manufactu
    - **2021**: Revenue surged to **598.9 million**, marking a **304.5% growth** compared to 2020.
 
 2. **Market Performance**:
-   - Markets such as **Australia**, **India**, and **Pakistan** exceeded sales targets.
-   - Other markets like **Austria**, **Poland**, and **South Korea** underperformed.
+   - **Exceeded Sales Targets**: Australia, India, and Pakistan.
+   - **Underperformed**: Austria, Poland, and South Korea.
 
-3. **Sales Channel Analysis**:
-   - Identified significant declines in key customer segments (2019–2021).
-   - Developed targeted strategies to reverse the trend and achieve growth.
-
-4. **Sales Channel Performance**:
-   - Overall sales increase: **304.5%**
-   - Growth for Acclaimed Stores: **378.1%**
-   - Growth for Amazon: **218.9%**
-   - Growth for AtliQ e Store: **223.8%**
-
----
-
-## Tech Stack
-
-- **Microsoft Excel**
-- **PowerPoint**
-- **Languages**:
-  - M Language (Power Query)
-  - DAX Language
+3. **Comprehensive Assessment**:
+   - These insights illustrate our consistent expansion in serving a larger customer base, underlining strong demand for our products. The analysis helps identify areas for improvement and refine strategies for future growth.
 
 ---
 
 ## Summary
 
-This project provided AtliQ Hardware with detailed insights into their financial performance, enabling them to make informed decisions. The combination of technical tools and business domain knowledge led to actionable strategies for improving sales and market performance.
+- **Identified significant declines** in sales performance across key customer segments from 2019 to 2021.
+- Set a goal to **reverse declining sales** and achieve substantial growth across multiple sales channels.
+- Conducted detailed sales analysis, optimized listings and promotions for Amazon, and implemented targeted marketing strategies for Acclaimed Stores and AtliQ e Store.
+- Achieved:
+  - **304.5% overall sales increase**.
+  - **378.1% growth** for Acclaimed Stores.
+  - **218.9% increase** for Amazon.
+  - **223.8% rise** for AtliQ e Store.
+
+
+
